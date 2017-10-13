@@ -1,0 +1,80 @@
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\Amalgamma\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\ResolveAssemblyReference.cache
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+H:\USERS\Acorrales\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+H:\USERS\Acorrales\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.Transactions.dll
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionProxy.dll
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+D:\SOURCE_CODE\Amalgamma Servers\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.Transactions.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\BD_MNG.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\obj\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\FS4Amalgamma\FS4Amalgamma\bin\Debug\FourthShift.Transactions.dll
